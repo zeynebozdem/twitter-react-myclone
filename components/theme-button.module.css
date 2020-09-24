@@ -10,3 +10,6 @@
        color: var(--c-text-color);
    }
 }
+.bigButton{
+    height : 47px;
+}
